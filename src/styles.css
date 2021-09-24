@@ -1,0 +1,53 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background: url(https://i.postimg.cc/mgqTbnYQ/back.jpg);
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+a {
+  padding: 3rem;
+  color: #fadfad;
+}
+h1 {
+  color: #a52a2a;
+  margin: 2rem;
+}
+h3 {
+  color: #a52a2a;
+  margin: 2rem;
+}
+h4 {
+  color: #fadfad;
+  margin: 2rem;
+}
+h2 {
+  margin: 2rem;
+  color: #cc7722;
+  font-size: 35px;
+}
+input {
+  background-color: #fffcdb;
+  padding: 6px;
+  border-radius: 10px;
+  width: 70%;
+  font-size: 20px;
+  margin: 2rem;
+}
+button {
+  font-size: 20px;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: #a52a2a;
+  color: #edc9af;
+  margin: 2rem;
+}
